@@ -1,3 +1,9 @@
+package Other;
+
+import Entities.Armor;
+import Entities.Item;
+import Entities.weapons;
+
 import java.util.ArrayList;
 
 public class Character
